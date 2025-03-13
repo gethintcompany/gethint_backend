@@ -4,6 +4,8 @@
 A modern, scalable asset management platform and stock predictor built with FastAPI and SQLAlchemy. Features include portfolio tracking, stock market integration, user authentication, and subscription management. Designed with clean architecture principles
 
 
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/gethintcompany/gethint_backend?utm_source=oss&utm_medium=github&utm_campaign=gethintcompany%2Fgethint_backend&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 ## Contributing
 
 Contributions are always welcome!
