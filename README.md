@@ -34,6 +34,10 @@ venv\Scripts\activate
 ```bash
 deactivate
 ```
+#### 4. Install Required package
+```bash
+pip install -r requirements.txt
+```
 
 ### Run the FastAPI app with Uvicorn:
 ```
